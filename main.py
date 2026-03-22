@@ -15,7 +15,7 @@ CATEGORY_ID = 1484944897000607917  # ID категории, где будут с
 ADMIN_ROLE_ID = 1484961565332471859  # ID роли админа (кто видит все тикеты)
 PLAYER_ROLE_ID = 1484973955810070769  # ID роли, которая выдается после принятия
 
-WELCOME_DM = "# Твоя заявка на SKVIPTIK одобрена.\n\nВот айпи сервера: **skviptik.sosal.today**\n**Версия:** 1.21 Fabric\n**Моды:** https://drive.google.com/drive/folders/102lidbdtWsIfZ2Awx-kJPqIscBayRKrb?usp=sharing\n\nЖдем тебя в игре! 🐲"
+WELCOME_DM = "# Твоя заявка на SKVIPTIK одобрена.\n\nВот айпи сервера: **skviptik.sosal.today**\n**Версия:**  1.19.4 ForgeOptiFine\n**Моды:** https://drive.google.com/drive/folders/102lidbdtWsIfZ2Awx-kJPqIscBayRKrb?usp=sharing\n\nЖдем тебя в игре! 🐲"
 
 
 class TicketBot(commands.Bot):
